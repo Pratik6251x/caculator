@@ -67,6 +67,6 @@ python calculator.py
 
 ## 👨‍💻 Author
 
-**Ritikesh Kumar Singh**  
-GitHub: [@rksingh-108](https://github.com/rksingh-108)  
-LinkedIn: [Ritikesh Kumar Singh](https://linkedin.com/in/ritikesh-kumar-singh)
+**Pratik Kumar**  
+GitHub: [Pratik6251@](https://github.com/Pratik6251x)  
+LinkedIn: [Pratik Kumar](https://linkedin.com/in/pratik6251x)
